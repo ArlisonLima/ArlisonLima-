@@ -18,7 +18,7 @@ Sou um entusiasta de desenvolvimento de software focado em backend, atualmente e
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/seu-nome/)
-- [Email](mailto:seuemail@example.com)
+- [Email](mailto:arlisoncesar87@gmail.com)
 
 ## Contribuições
 Contribuições são bem-vindas! Se você encontrar qualquer problema ou tiver sugestões, fique à vontade para abrir uma issue ou enviar um pull request.
